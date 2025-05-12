@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as o,E as n}from"./7oN3wMTm.js";const r={},t={class:"sm:max-w-screen-sm md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl mx-auto w-full flex flex-col grow px-6 pb-12"};function l(e,a){return c(),o("div",t,[n(e.$slots,"default")])}const m=s(r,[["render",l]]);export{m as _};
